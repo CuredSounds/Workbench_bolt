@@ -1,0 +1,8 @@
+git add <file-path>
+git add .
+git commit -m "Add new files"
+
+
+
+
+we're gonna need extensive documentation, logging, error, & ect.  I want you to use sofetware development best practices in cluding th efolder structure.

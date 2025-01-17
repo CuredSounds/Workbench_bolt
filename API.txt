@@ -1,0 +1,25 @@
+Anthropic
+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
+
+openai
+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
+
+Perplexity
+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
+
+Openrouter
+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
+
+
+Hugging Face
+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
+
+
+huggingface-cli login
+from adapters import AutoAdapterModel
+
+deepseek
+sk-afe19dabea2148e88c93a5e26be4b1c1
+
+model = AutoAdapterModel.from_pretrained("undefined")
+model.load_adapter("CuredSounds/Workbench", set_active=True)
