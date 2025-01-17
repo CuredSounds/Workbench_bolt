@@ -9,10 +9,13 @@
             "preview": "vite preview"
       },
       "dependencies": {
+            "@anthropic-ai/sdk": "^0.33.1",
+            "@huggingface/inference": "^2.8.1",
             "@vitejs/plugin-react": "^4.3.4",
-            "axios": "^1.6.2",
+            "axios": "^1.7.9",
             "cheerio": "^1.0.0-rc.12",
             "express": "^4.18.2",
+            "openai": "^4.78.1",
             "react": "^19.0.0",
             "react-dom": "^19.0.0",
             "sqlite3": "^5.1.6"
@@ -20,5 +23,17 @@
       "devDependencies": {
             "@types/node": "^20.5.7",
             "vite": "^4.5.5"
-      }
+      },
+      "repository": {
+            "type": "git",
+            "url": "git+https://github.com/CuredSounds/Workbench_bolt.git"
+      },
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "type": "commonjs",
+      "bugs": {
+            "url": "https://github.com/CuredSounds/Workbench_bolt/issues"
+      },
+      "homepage": "https://github.com/CuredSounds/Workbench_bolt#readme"
 }
